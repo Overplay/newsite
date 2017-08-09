@@ -4,936 +4,16 @@
     <option name="SCOPE_TYPE" value="10" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc7c82a0-a86e-490c-86bb-d7ef8b77c392" name="Default" comment="changed file format on new clip to mp4.  fixed a spelling error.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/eps/contact-bg.eps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/Ourglass_LOGO_RGB_WHT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/Overplay_Logo_368_WHT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/Young-man-with-smartphone-drinking-beer-in-bar-late-at-night.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/around_a_phone_med.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/around_a_phone_medium.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/arrow-clip-art-transparent-background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/chalk-arrow-point-down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/chalk-arrow-rotated.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/chalk-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/client-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/client-logo/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/client-logo/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/client-logo/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/client-logo/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/client-logo/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/client-logo/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/client-logo/blank.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/clients/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/clients/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/clients/blank.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/code_on_table_wide_small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/contact-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/demo640w.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/fav_icons/favicon-32x32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/fun_with_tv_med.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/fun_with_tv_wide_med.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/fun_with_tv_wide_small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/header.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/hipster_texting_in_bar_med_wide.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/hipster_texting_in_bar_small_wide.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/html5-css3-js300x300.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/like.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/monitoring.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/network.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/operator.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/optimization-clock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/phone-call.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/placeholder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/settings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icons/smartphone-and-tablet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/iosoverplay1024.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/iphone-6GREY.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/learnarrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/logo01-16transparentwithtag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/logo01-16transparentwithtagnoit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/logo02-18transparent_os.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/logo12-2015transparentbwg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/newarrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/newarrowswap.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/newourglassvid.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/oldvineyard.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/optvlogo100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/ourglass_explained.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/ourglass_explained_480p.mov" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/price-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/process-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/sad_man_texting_in_bar_narrow_med.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/small.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/sportsbarblur.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/sportsbarblurfaded.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/sportsbarblurgs1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/teams/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/teams/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/teams/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/teams/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/teams/blank.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/top-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/tv_PNG479.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/uglybar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/videobg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/websiteclip053017.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/works/1-lg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/works/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/works/2-lg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/works/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/works/3-lg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/works/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/works/4-lg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/works/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/works/5-lg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/works/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/works/6-lg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/works/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/works/blank-lg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/works/blank.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/dist/assets/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/dist/assets/owl.video.play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/img/bird_blue_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/img/download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/img/feature-drag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/img/feature-modern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/img/feature-module.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/img/feature-options.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/img/feature-responsive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/img/feature-zombie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/img/owl-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/img/twitter_25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.video.play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/img/bird_blue_32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/img/download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/img/feature-drag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/img/feature-modern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/img/feature-module.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/img/feature-options.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/img/feature-responsive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/img/feature-zombie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/img/owl-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/img/twitter_25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/img/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/img/owl.video.play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/captcha/fonts/Anorexia.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/captcha/images/button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/cinema/plan_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/cinema/refer_madness.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/cinema/saucer_men.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/images/bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/images/checked.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/images/cmxform-divider.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/images/cmxform-fieldset.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/images/unchecked.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/login/images/bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/login/images/header1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/login/images/page.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/login/images/required_star.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/images/backRequiredGray.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/images/back_green-fade.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/images/back_nav_blue.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/images/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/images/button-submit.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/images/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/images/help.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/images/left-nav-callout-long.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/images/login-sprite.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/images/logo_marketo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/images/sf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/images/step1-24.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/images/step2-24.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/images/step3-24.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/images/tab-sprite.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/images/tab_green.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/images/time.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/images/toggle.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/images/warning.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/milk/bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/milk/left_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/milk/milk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/milk/right_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/tinymce/themes/simple/img/icons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/docs.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/~$docs.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/~WRL0005.tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/Ourglass_LOGO_RGB_WHT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/Overplay_Logo_368_WHT.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/Young-man-with-smartphone-drinking-beer-in-bar-late-at-night.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/around_a_phone_med.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/around_a_phone_medium.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/arrow-clip-art-transparent-background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/chalk-arrow-point-down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/chalk-arrow-rotated.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/chalk-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/code_on_table_wide_small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/demo640w.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/fav_icons/favicon-32x32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/fun_with_tv_med.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/fun_with_tv_wide_med.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/fun_with_tv_wide_small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/hipster_texting_in_bar_med_wide.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/hipster_texting_in_bar_small_wide.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/html5-css3-js300x300.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/iosoverplay1024.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/iphone-6GREY.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/learnarrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/logo01-16transparentwithtag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/logo01-16transparentwithtagnoit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/logo02-18transparent_os.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/logo12-2015transparentbwg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/newarrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/newarrowswap.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/newourglassvid.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/oldvineyard.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/optvlogo100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/ourglass_explained.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/ourglass_explained_480p.mov" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/sad_man_texting_in_bar_narrow_med.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/small.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/sportsbarblur.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/sportsbarblurfaded.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/sportsbarblurgs1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/tv_PNG479.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/uglybar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/videobg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img_old/websiteclip053017.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/treb.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/.csscomb.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/.csslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/badges.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/button-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/close.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/component-animations.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/dropdowns.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/glyphicons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/input-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/jumbotron.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/media.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/background-variant.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/border-radius.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/center-block.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/clearfix.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/gradients.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/grid-framework.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/hide-text.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/image.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/nav-divider.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/nav-vertical-align.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/opacity.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/progress-bar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/reset-filter.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/reset-text.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/resize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/responsive-visibility.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/size.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/tab-focus.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/table-row.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/text-emphasis.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/text-overflow.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/mixins/vendor-prefixes.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/modals.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/normalize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/pager.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/popovers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/print.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/progress-bars.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/responsive-embed.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/responsive-utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/tables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/thumbnails.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/bootstrap/less/wells.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/loader.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/default.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/min/default.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/less/contact.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/less/copyright.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/less/default.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/less/features.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/less/global.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/less/header.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/less/map.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/less/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/less/newsletter.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/less/numbers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/less/plugins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/less/pricing.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/less/process.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/less/teams.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/less/testimonial.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/less/works.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/Counter-Up-master/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/Counter-Up-master/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/Counter-Up-master/counterup.jquery.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/Counter-Up-master/demo/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/Counter-Up-master/jquery.counterup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/Counter-Up-master/jquery.counterup.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/_config.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/dist/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/dist/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/dist/assets/owl.carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/dist/assets/owl.carousel.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/dist/assets/owl.theme.default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/dist/assets/owl.theme.default.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/dist/assets/owl.theme.green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/dist/assets/owl.theme.green.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/dist/owl.carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/dist/owl.carousel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/css/docs.theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/js/foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/owlcarousel/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.carousel.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.theme.default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.theme.default.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.theme.green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/owlcarousel/assets/owl.theme.green.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/owlcarousel/owl.carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/owlcarousel/owl.carousel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/vendors/foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/vendors/highlight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/vendors/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/vendors/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/assets/vendors/jquery.mousewheel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/demos/animate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/demos/autoheight.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/demos/autoplay.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/demos/autowidth.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/demos/basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/demos/center.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/demos/demos.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/demos/events.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/demos/lazyLoad.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/demos/merge.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/demos/mousewheel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/demos/responsive.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/demos/rtl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/demos/stagepadding.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/demos/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/demos/urlhashnav.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/demos/video.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/docs/api-classes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/docs/api-events.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/docs/api-options.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/docs/dev-buildin-plugins.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/docs/dev-external.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/docs/dev-plugin-api.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/docs/dev-styles.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/docs/started-faq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/docs/started-installation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/docs/started-welcome.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/docs/support-changelog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/docs/support-contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/docs/support-contributing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/js/foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/scss/_settings.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/scss/custom.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/scss/demos.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/scss/docs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/scss/docs.theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/scss/highlight.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/vendors/foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/vendors/highlight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/vendors/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/vendors/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/assets/vendors/jquery.mousewheel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/data/classes.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/data/events.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/data/features.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/data/options.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/helpers/modulo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/helpers/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/layouts/demos.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/layouts/docs.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/layouts/home.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/animate.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/autoheight.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/autoplay.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/autowidth.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/basic.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/center.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/demos.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/events.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/lazyLoad.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/merge.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/mousewheel.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/responsive.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/rtl.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/stagepadding.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/test.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/urlhashnav.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/demos/video.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/api-classes.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/api-events.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/api-options.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/dev-buildin-plugins.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/dev-external.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/dev-plugin-api.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/dev-styles.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/started-faq.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/started-installation.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/started-welcome.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/support-changelog.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/support-contact.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/docs/support-contributing.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/pages/index.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/partials/footer.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/partials/head.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/partials/header.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/partials/home-carousel.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/partials/home-features.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/partials/home-hero.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/partials/home-teaser-text.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/partials/javascripts.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/partials/releated-docs.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/partials/sidenav-docs.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/partials/title.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/docs_src/templates/partials/vendors.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/js/.jscsrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/js/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/js/owl.animate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/js/owl.autoheight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/js/owl.autoplay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/js/owl.autorefresh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/js/owl.carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/js/owl.hash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/js/owl.lazyload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/js/owl.navigation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/js/owl.support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/js/owl.support.modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/js/owl.video.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/scss/_animate.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/scss/_autoheight.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/scss/_lazyload.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/scss/_theme.default.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/scss/_theme.green.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/scss/_theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/scss/_video.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/scss/owl.carousel.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/scss/owl.theme.default.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/src/scss/owl.theme.green.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/OwlCarousel2-2.2.0/test/unit/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/WOW/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/WOW/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/WOW/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/WOW/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/WOW/css/libs/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/WOW/css/site.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/WOW/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/WOW/dist/wow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/WOW/dist/wow.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/WOW/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/WOW/spec/coffeescripts/helpers/SpecHelper.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/WOW/spec/coffeescripts/wow-spec.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/WOW/spec/javascripts/fixtures/custom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/WOW/spec/javascripts/fixtures/simple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/WOW/spec/javascripts/helpers/SpecHelper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/WOW/spec/javascripts/libs/jasmine-jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/WOW/spec/javascripts/libs/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/WOW/spec/javascripts/wow-spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/WOW/src/wow.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/HELP-US-OUT.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/less/screen-reader.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/scss/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome-4.6.3/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-2.2.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/ajaxSubmit-integration-demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/bootstrap/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/captcha/captcha.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/captcha/image_req.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/captcha/images/image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/captcha/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/captcha/newsession.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/captcha/process.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/captcha/rand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/captcha/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/cinema/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/css/cmxform.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/css/cmxformTemplate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/css/core.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/css/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/custom-messages-data-demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/custom-methods-demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/dynamic-totals.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/errorcontainer-demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/errors-within-labels.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/file_input.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/jquerymobile.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/login/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/login/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/jquery.maskedinput.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/mktSignup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/step2.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/marketo/stylesheet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/milk/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/milk/milk.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/multipart/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/multipart/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/radio-checkbox-select-demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/requirejs/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/requirejs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/semantic-ui/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/site-demos.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/themerollered.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/tinymce/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/tinymce/themes/simple/editor_template.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/tinymce/themes/simple/langs/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/tinymce/themes/simple/skins/default/ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/tinymce/tiny_mce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/demo/tinymce4/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/additional-methods.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/additional-methods.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/jquery.validate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/jquery.validate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_ar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_bg.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_bn_BD.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_bn_BD.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_ca.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_cs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_da.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_de.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_el.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_es.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_es_AR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_es_AR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_es_PE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_es_PE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_et.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_eu.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_fa.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_fi.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_fr.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_ge.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_ge.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_gl.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_he.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_hr.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_hu.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_hy_AM.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_hy_AM.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_id.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_is.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_it.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_ja.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_ka.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_ka.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_kk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_kk.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_ko.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_lt.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_lv.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_mk.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_my.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_my.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_nl.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_no.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_pl.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_pt_BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_pt_BR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_pt_PT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_pt_PT.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_ro.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_ru.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_si.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_si.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_sk.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_sl.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_sr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_sr.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_sr_lat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_sr_lat.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_sv.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_th.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_tj.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_tj.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_tr.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_uk.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_vi.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_zh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_zh.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_zh_TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/messages_zh_TW.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/methods_de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/methods_de.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/methods_es_CL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/methods_es_CL.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/methods_fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/methods_fi.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/methods_nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/methods_nl.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/methods_pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/dist/localization/methods_pt.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/lib/jquery-1.11.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/lib/jquery-1.7.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/lib/jquery-1.8.3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/lib/jquery-1.9.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/lib/jquery.form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/lib/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/lib/jquery.mockjax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/lib/jquery.simulate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/lib/require.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/accept.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/additional.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/alphanumeric.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/bankaccountNL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/bankorgiroaccountNL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/bic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/cifES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/cpfBR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/creditcard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/creditcardtypes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/currency.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/dateFA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/dateITA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/dateNL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/extension.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/giroaccountNL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/iban.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/integer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/ipv4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/ipv6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/lettersonly.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/letterswithbasicpunc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/mobileNL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/mobileUK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/nieES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/nifES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/notEqualTo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/nowhitespace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/pattern.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/phoneNL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/phoneUK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/phoneUS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/phonesUK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/postalCodeCA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/postalcodeBR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/postalcodeIT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/postalcodeNL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/postcodeUK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/require_from_group.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/skip_or_fill_minimum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/statesUS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/strippedminlength.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/time.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/time12h.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/url2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/vinUS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/zipcodeUS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/additional/ziprange.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_bn_BD.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_es_AR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_es_PE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_ge.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_hy_AM.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_ka.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_kk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_my.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_pt_BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_pt_PT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_si.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_sr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_sr_lat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_tj.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_zh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/messages_zh_TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/methods_de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/methods_es_CL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/methods_fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/methods_nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/src/localization/methods_pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/test/additional/creditcard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/test/aria.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/test/error-placement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/test/messages.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/test/methods.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/test/qunit/qunit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/test/qunit/qunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/test/rules.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation-1.15.0/test/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery.easing.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/dist/jquery.magnific-popup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/dist/jquery.magnific-popup.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/dist/magnific-popup.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/libs/jquery-loader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/libs/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/libs/qunit/qunit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/libs/qunit/qunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/magnific-popup.jquery.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/src/css/_settings.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/src/css/main.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/src/js/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/src/js/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/src/js/gallery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/src/js/iframe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/src/js/image.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/src/js/inline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/src/js/retina.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/src/js/zoom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/website/_includes/analytics.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/website/_includes/build-tool.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/website/_includes/examples.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/website/_includes/logo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/website/_includes/signup.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/website/_layouts/default.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/website/documentation.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/website/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/website/site-assets/ajax/test-ajax-2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/website/site-assets/ajax/test-ajax.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/website/site-assets/site.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/website/third-party-libs/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/website/third-party-libs/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/website/third-party-libs/uglify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/website/third-party-libs/zepto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/website/third-party-libs/zepto.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/magnific-popup/website/wordpress.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/parallax.js-1.4.2/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/parallax.js-1.4.2/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/parallax.js-1.4.2/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/parallax.js-1.4.2/parallax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/parallax.js-1.4.2/parallax.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/sscr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/waypoints.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.bak.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Ourglass_LOGO_RGB_WHT.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Overplay_Logo_368_WHT.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Young-man-with-smartphone-drinking-beer-in-bar-late-at-night.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/around_a_phone_med.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/around_a_phone_medium.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/arrow-clip-art-transparent-background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/chalk-arrow-point-down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/chalk-arrow-rotated.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/chalk-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/code_on_table_wide_small.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/demo640w.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/fav_icons/favicon-32x32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/fun_with_tv_med.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/fun_with_tv_wide_med.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/fun_with_tv_wide_small.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hipster_texting_in_bar_med_wide.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hipster_texting_in_bar_small_wide.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/html5-css3-js300x300.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/iosoverplay1024.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/learnarrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo01-16transparentwithtag.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo01-16transparentwithtagnoit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo02-18transparent_os.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo12-2015transparentbwg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/newarrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/newarrowswap.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/newourglassvid.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/oldvineyard.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/optvlogo100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ourglass_explained.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ourglass_explained_480p.mov" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sad_man_texting_in_bar_narrow_med.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/small.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sportsbarblur.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sportsbarblurfaded.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sportsbarblurgs1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/tv_PNG479.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/uglybar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/videobg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/websiteclip053017.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/scripts.js" afterPath="" />
+    <list default="true" id="dc7c82a0-a86e-490c-86bb-d7ef8b77c392" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/Play-Games-180.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/Play-Games-300.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/bar_celebrators_ourglass_web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/headphone_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/headphone_icons_180.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/headphone_icons_300.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/interact_icon_180.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/interact_icon_300.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="corpsite-new.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -958,11 +38,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5970">
-              <caret line="418" column="120" lean-forward="false" selection-start-line="418" selection-start-column="120" selection-end-line="418" selection-end-column="120" />
+            <state relative-caret-position="257">
+              <caret line="136" column="19" lean-forward="true" selection-start-line="136" selection-start-column="19" selection-end-line="136" selection-end-column="19" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#4760#6373#0" expanded="false" />
+                <element signature="e#4759#6372#0" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -972,9 +52,10 @@
                 <element signature="n#style#0;n#i#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#div#0;n#div#2;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1502315719000" expanded="false" signature="10627:10646" ph="..." />
-                <marker date="1502315719000" expanded="false" signature="10685:10703" ph="..." />
-                <marker date="1502315719000" expanded="false" signature="10793:10825" ph="..." />
+                <element signature="n#style#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1502319241000" expanded="false" signature="10626:10645" ph="..." />
+                <marker date="1502319241000" expanded="false" signature="10684:10702" ph="..." />
+                <marker date="1502319241000" expanded="false" signature="10792:10824" ph="..." />
               </folding>
             </state>
           </provider>
@@ -1141,6 +222,22 @@
               <item name="newsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="newsite" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="newsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newsite" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newsite" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newsite" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -1281,7 +378,7 @@
       <workItem from="1501939665417" duration="3878000" />
       <workItem from="1502156351346" duration="901000" />
       <workItem from="1502313527351" duration="31000" />
-      <workItem from="1502313579324" duration="2680000" />
+      <workItem from="1502313579324" duration="3623000" />
     </task>
     <task id="LOCAL-00001" summary="Changed wording from Advertise to Sponsor.">
       <created>1478210943813</created>
@@ -1325,11 +422,25 @@
       <option name="project" value="LOCAL" />
       <updated>1502317551808</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="major changes in the index.html file for the new website look and feel">
+      <created>1502318512988</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1502318512988</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixed the tvs">
+      <created>1502319271773</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1502319271773</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51564000" />
+    <option name="totallyTimeSpent" value="52507000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -1382,7 +493,9 @@
     <MESSAGE value="adding a mobileapp directory as well" />
     <MESSAGE value="got rid of the mobileapp.html file as it's not needed.&#10;" />
     <MESSAGE value="changed file format on new clip to mp4.  fixed a spelling error." />
-    <option name="LAST_COMMIT_MESSAGE" value="changed file format on new clip to mp4.  fixed a spelling error." />
+    <MESSAGE value="major changes in the index.html file for the new website look and feel" />
+    <MESSAGE value="Fixed the tvs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed the tvs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1415,7 +528,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4760#6373#0" expanded="false" />
+            <element signature="e#4759#6372#0" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1425,9 +538,10 @@
             <element signature="n#style#0;n#i#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#0;n#div#2;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502315719000" expanded="false" signature="10627:10646" ph="..." />
-            <marker date="1502315719000" expanded="false" signature="10685:10703" ph="..." />
-            <marker date="1502315719000" expanded="false" signature="10793:10825" ph="..." />
+            <element signature="n#style#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1502319241000" expanded="false" signature="10626:10645" ph="..." />
+            <marker date="1502319241000" expanded="false" signature="10684:10702" ph="..." />
+            <marker date="1502319241000" expanded="false" signature="10792:10824" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1458,7 +572,7 @@
           <caret line="344" column="33" lean-forward="false" selection-start-line="344" selection-start-column="26" selection-end-line="344" selection-end-column="40" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4760#6373#0" expanded="false" />
+            <element signature="e#4759#6372#0" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1468,9 +582,10 @@
             <element signature="n#style#0;n#i#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#0;n#div#2;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502315719000" expanded="false" signature="10627:10646" ph="..." />
-            <marker date="1502315719000" expanded="false" signature="10685:10703" ph="..." />
-            <marker date="1502315719000" expanded="false" signature="10793:10825" ph="..." />
+            <element signature="n#style#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1502319241000" expanded="false" signature="10626:10645" ph="..." />
+            <marker date="1502319241000" expanded="false" signature="10684:10702" ph="..." />
+            <marker date="1502319241000" expanded="false" signature="10792:10824" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1509,7 +624,7 @@
           <caret line="344" column="33" lean-forward="false" selection-start-line="344" selection-start-column="26" selection-end-line="344" selection-end-column="40" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4760#6373#0" expanded="false" />
+            <element signature="e#4759#6372#0" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1519,9 +634,10 @@
             <element signature="n#style#0;n#i#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#0;n#div#2;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502315719000" expanded="false" signature="10627:10646" ph="..." />
-            <marker date="1502315719000" expanded="false" signature="10685:10703" ph="..." />
-            <marker date="1502315719000" expanded="false" signature="10793:10825" ph="..." />
+            <element signature="n#style#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1502319241000" expanded="false" signature="10626:10645" ph="..." />
+            <marker date="1502319241000" expanded="false" signature="10684:10702" ph="..." />
+            <marker date="1502319241000" expanded="false" signature="10792:10824" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1560,7 +676,7 @@
           <caret line="344" column="33" lean-forward="false" selection-start-line="344" selection-start-column="26" selection-end-line="344" selection-end-column="40" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4760#6373#0" expanded="false" />
+            <element signature="e#4759#6372#0" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1570,9 +686,10 @@
             <element signature="n#style#0;n#i#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#0;n#div#2;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502315719000" expanded="false" signature="10627:10646" ph="..." />
-            <marker date="1502315719000" expanded="false" signature="10685:10703" ph="..." />
-            <marker date="1502315719000" expanded="false" signature="10793:10825" ph="..." />
+            <element signature="n#style#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1502319241000" expanded="false" signature="10626:10645" ph="..." />
+            <marker date="1502319241000" expanded="false" signature="10684:10702" ph="..." />
+            <marker date="1502319241000" expanded="false" signature="10792:10824" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1611,7 +728,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4760#6373#0" expanded="false" />
+            <element signature="e#4759#6372#0" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1621,9 +738,10 @@
             <element signature="n#style#0;n#i#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#0;n#div#2;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502315719000" expanded="false" signature="10627:10646" ph="..." />
-            <marker date="1502315719000" expanded="false" signature="10685:10703" ph="..." />
-            <marker date="1502315719000" expanded="false" signature="10793:10825" ph="..." />
+            <element signature="n#style#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1502319241000" expanded="false" signature="10626:10645" ph="..." />
+            <marker date="1502319241000" expanded="false" signature="10684:10702" ph="..." />
+            <marker date="1502319241000" expanded="false" signature="10792:10824" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1686,7 +804,7 @@
           <caret line="95" column="26" lean-forward="false" selection-start-line="95" selection-start-column="20" selection-end-line="95" selection-end-column="26" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4760#6373#0" expanded="false" />
+            <element signature="e#4759#6372#0" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1696,9 +814,10 @@
             <element signature="n#style#0;n#i#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#0;n#div#2;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502315719000" expanded="false" signature="10627:10646" ph="..." />
-            <marker date="1502315719000" expanded="false" signature="10685:10703" ph="..." />
-            <marker date="1502315719000" expanded="false" signature="10793:10825" ph="..." />
+            <element signature="n#style#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1502319241000" expanded="false" signature="10626:10645" ph="..." />
+            <marker date="1502319241000" expanded="false" signature="10684:10702" ph="..." />
+            <marker date="1502319241000" expanded="false" signature="10792:10824" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1922,11 +1041,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5970">
-          <caret line="418" column="120" lean-forward="false" selection-start-line="418" selection-start-column="120" selection-end-line="418" selection-end-column="120" />
+        <state relative-caret-position="257">
+          <caret line="136" column="19" lean-forward="true" selection-start-line="136" selection-start-column="19" selection-end-line="136" selection-end-column="19" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4760#6373#0" expanded="false" />
+            <element signature="e#4759#6372#0" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1936,9 +1055,10 @@
             <element signature="n#style#0;n#i#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#0;n#div#2;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1502315719000" expanded="false" signature="10627:10646" ph="..." />
-            <marker date="1502315719000" expanded="false" signature="10685:10703" ph="..." />
-            <marker date="1502315719000" expanded="false" signature="10793:10825" ph="..." />
+            <element signature="n#style#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1502319241000" expanded="false" signature="10626:10645" ph="..." />
+            <marker date="1502319241000" expanded="false" signature="10684:10702" ph="..." />
+            <marker date="1502319241000" expanded="false" signature="10792:10824" ph="..." />
           </folding>
         </state>
       </provider>
