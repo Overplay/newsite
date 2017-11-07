@@ -855,10 +855,16 @@ label.error {
     border:1px solid white;
     border-radius:6px;
     box-sizing:border-box;
-    height:43px;
+    height: 40px;
     background:#888;
     display:inline-block;
-    height:43px;
+    height:40px;
     vertical-align:top;
 }
+
+.big-icon {
+    margin-top: -25px;
+    text-align: center;
+    color: #9BBB59;
+    font-size: 150px;
 }
