@@ -317,7 +317,7 @@ label.error {
     font-weight: 200;
     color: #fff;
     margin-top: 50px;
-    text-shadow: 1px 1px #A9A9A9	;
+    text-shadow: 1px 1px black	;
 }
 }
 .header p {
@@ -847,4 +847,18 @@ label.error {
 
 .gallery .panel-heading {
     background-color: lightgoldenrodyellow;
+}
+
+.google-play {
+
+    background:black;
+    border:1px solid white;
+    border-radius:6px;
+    box-sizing:border-box;
+    height:43px;
+    background:#888;
+    display:inline-block;
+    height:43px;
+    vertical-align:top;
+}
 }
