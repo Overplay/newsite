@@ -865,6 +865,14 @@ label.error {
 .big-icon {
     margin-top: -25px;
     text-align: center;
-    color: #9BBB59;
+    color: #8FB450;
     font-size: 150px;
+}
+
+.icon-graphics {
+    min-height: 100vh; /* These two lines are counted as one :-)       */
+
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
 }
